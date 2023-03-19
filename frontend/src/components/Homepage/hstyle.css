@@ -1,0 +1,20 @@
+.herosection{
+    padding-top: 10vh;
+    height: 100vh;
+    background-color: #D5F3FA;
+}
+
+.bannerimage{
+    flex: 1;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.herotext{
+    margin-top: 17vh;
+    margin-left: 5vw;
+}
+
+.bannerimage{
+    margin-right: 5vw;
+}
